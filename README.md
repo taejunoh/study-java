@@ -3,7 +3,7 @@ I want to document the process I am studying. I hope that by evaluating and shar
 
 I am working as a soft engineer in the United States and English is my second language. Therefore, I will study both English and Korean materials.
 
-# 목차
+# Agenda
 - [Resources](#Resources)
     * [English](#English)
     * [한국어](#한국어)
